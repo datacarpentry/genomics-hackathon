@@ -1,0 +1,35 @@
+Hello Data Carpentry Genomics and Assessment participant!
+
+Thank you so much for participating in this event. We're really looking forward to seeing you soon. 
+We wanted to let you know a few logistical details, a couple things you should do before the workshop
+ and the general agenda for the workshop.
+
+This information is also available on our wiki for the workshop:
+https://github.com/datacarpentry/genomics-hackathon/wiki
+
+Before the workshop:
+
+- Book your travel! If you haven't done that already please contact ... by ...
+- Introduce yourself on the participants page - https://github.com/datacarpentry/genomics-hackathon/wiki/participants
+- The first goal of the workshop is to identify the fundamental skills that researchers need to be successful in analyzing and managing genomics data. We've started a Google doc outlining some of these ideas.
+https://docs.google.com/document/d/1y8t-UCj84F4qMQMFJmHf2-Y6HhEUFPnenN2nh_cebBA/edit 
+Please look at this document and comment or edit with any of your ideas! 
+
+Logistics: 
+The workshop will begin at 9am on Monday, March 23. Please plan to be there by that time. The workshop
+will run from 9am to about 5pm each day, but we'll have the chance to have dinner together and get
+together in the evenings. 
+
+Include travel logistics?
+
+Meeting agenda:
+Details on the meeting agenda are here:
+https://github.com/datacarpentry/genomics-hackathon/wiki/agenda
+Generally though, we will begin with a discussion of learning objectives and define modules as the basis
+for break out sections to develop specific learning objectives, assessment methods and materials
+
+Again, we're looking forward to seeing you and please let us know if you have any questions!
+
+Best,
+Tracy, Shari, Hilmar, Mary, Mike, Jason
+
